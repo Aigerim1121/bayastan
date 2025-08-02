@@ -1,0 +1,98 @@
+h1{
+    margin-left: 400px;
+}
+.cont{
+    border: 2px solid white;
+}
+.cont-2{
+    border: 2px solid;
+    height: 350px;
+    width: 250px;
+    margin-top: 30px;
+    background-color: white;
+    >img{
+        height: 100px;
+        width: 100px;
+        margin-left: 70px;
+    }
+
+}
+.cont-3{
+    border: 2px solid;
+    height: 350px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color: white;
+    >img{
+        height: 100px;
+        width: 100px;
+        margin-left: 70px;
+    }
+
+
+}
+.cont-4{
+    border: 2px solid;
+    height: 350px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color: white;
+    >img{
+        height: 100px;
+        width: 100px;
+        margin-left: 70px;
+    }
+
+
+}
+.cont-1{
+    display: flex;
+    margin-left: 90px;
+}
+.cont-5{
+    border: 2px solid;
+    height: 350px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color: white;
+    >img{
+        height: 100px;
+        width: 100px;
+        margin-left: 70px;
+    }
+
+
+
+}
+.glava{
+    border: 2px solid  rgb(11, 219, 185);
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(11, 219, 185);
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: violet;
+}
+button{
+    width: 250px;
+    padding: 22px;
+    color: darkorange;
+}
+.aruuke-1{
+    color: yellow;
+    margin-right: 50px;
+}
+.aruuke-2{
+    color: white;
+    margin-left: -1px;
+}
+.aruuke{
+    display: flex;
+}
